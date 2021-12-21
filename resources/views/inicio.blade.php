@@ -269,7 +269,7 @@
               </div>
             </div>
             <div class="video-wrap">
-              <video id="slide-video" poster="demos/construction/images/videos/1.jpg" preload="auto" loop autoplay
+              <video id="slide-video" poster="demos/construction/images/videos/1.JPG" preload="auto" loop autoplay
                 muted>
                 <source src='demos/construction/images/videos/1.webm' type='video/webm' />
                 <source src='demos/construction/images/videos/1.mp4' type='video/mp4' />
@@ -322,7 +322,7 @@
             <div class="col-sm-6 col-lg-4">
               <div class="feature-box media-box">
                 <div class="fbox-media">
-                  <img class="rounded" src="demos/construction/images/pag/1.jpg" alt="Why choose Us?">
+                  <img class="rounded" src="demos/construction/images/pag/1.JPG" alt="Why choose Us?">
                 </div>
                 <div class="fbox-content px-0">
                   <h3>Profesionales calificados<span class="subtitle">Su propiedad en buenas manos.</span></h3>
@@ -335,7 +335,7 @@
             <div class="col-sm-6 col-lg-4">
               <div class="feature-box media-box">
                 <div class="fbox-media">
-                  <img class="rounded" src="demos/construction/images/pag/5.jpg" alt="Effective Planning">
+                  <img class="rounded" src="demos/construction/images/pag/5.JPG" alt="Effective Planning">
                 </div>
                 <div class="fbox-content px-0">
                   <h3>Planeación perfecta.<span class="subtitle">Proceso de construcción organizado.</span></h3>
@@ -348,7 +348,7 @@
             <div class="col-sm-6 col-lg-4">
               <div class="feature-box media-box">
                 <div class="fbox-media">
-                  <img class="rounded" src="demos/construction/images/pag/4.jpg" alt="Why choose Us?">
+                  <img class="rounded" src="demos/construction/images/pag/4.JPG" alt="Why choose Us?">
                 </div>
                 <div class="fbox-content px-0">
                   <h3>Gestión de riesgos.<span class="subtitle"></span></h3>
@@ -508,7 +508,7 @@
           <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-media pf-icons">
             <div class="grid-inner">
               <div class="portfolio-image">
-                <img src="demos/construction/images/pag/24t.jpg" alt="The Atmosphere">
+                <img src="demos/construction/images/pag/24t.JPG" alt="The Atmosphere">
                 <div class="bg-overlay">
                   <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
                     <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="zoomIn"
@@ -565,7 +565,7 @@
           <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-icons pf-illustrations">
             <div class="grid-inner">
               <div class="portfolio-image">
-                <img src="demos/construction/images/pag/20t.jpg" alt="Industrial Hub">
+                <img src="demos/construction/images/pag/20t.JPG" alt="Industrial Hub">
                 <div class="bg-overlay">
                   <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
                     <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="zoomIn"
@@ -584,7 +584,7 @@
           <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-uielements pf-media">
             <div class="grid-inner">
               <div class="portfolio-image">
-                <img src="demos/construction/images/pag/21t.jpg" alt="Corporate Headquarters">
+                <img src="demos/construction/images/pag/21t.JPG" alt="Corporate Headquarters">
                 <div class="bg-overlay">
                   <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
                     <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="zoomIn"
@@ -603,7 +603,7 @@
           <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-graphics pf-illustrations">
             <div class="grid-inner">
               <div class="portfolio-image">
-                <img src="demos/construction/images/pag/18.jpg" alt="Space Station">
+                <img src="demos/construction/images/pag/18.JPG" alt="Space Station">
                 <div class="bg-overlay">
                   <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
                     <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="zoomIn"
@@ -622,7 +622,7 @@
           <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-uielements pf-icons">
             <div class="grid-inner">
               <div class="portfolio-image">
-                <img src="demos/construction/images/pag/17.jpg" alt="Bent Architecture">
+                <img src="demos/construction/images/pag/17.JPG" alt="Bent Architecture">
                 <div class="bg-overlay">
                   <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
                     <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="zoomIn"
@@ -641,7 +641,7 @@
           <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-graphics">
             <div class="grid-inner">
               <div class="portfolio-image">
-                <img src="demos/construction/images/pag/22t.jpg" alt="Lakeview Center">
+                <img src="demos/construction/images/pag/22t.JPG" alt="Lakeview Center">
                 <div class="bg-overlay">
                   <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
                     <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="zoomIn"
@@ -862,8 +862,8 @@
                 <div class="oc-item">
                   <div class="entry">
                     <div class="entry-image">
-                      <a href="demos/construction/images/pag/25.jpg" data-lightbox="image"><img
-                          src="demos/construction/images/pag/25.jpg" alt="Standard Post with Image"></a>
+                      <a href="demos/construction/images/pag/25.JPG" data-lightbox="image"><img
+                          src="demos/construction/images/pag/25.JPG" alt="Standard Post with Image"></a>
                     </div>
                     <div class="entry-title title-sm nott">
                       <h3><a href="#">Proximos Proyectos en Australia</a></h3>
@@ -887,14 +887,14 @@
                       <div class="fslider" data-arrows="false" data-lightbox="gallery">
                         <div class="flexslider">
                           <div class="slider-wrap">
-                            <div class="slide"><a href="demos/construction/images/pag/4.jpg"
-                                data-lightbox="gallery-item"><img src="demos/construction/images/pag/4.jpg"
+                            <div class="slide"><a href="demos/construction/images/pag/4.JPG"
+                                data-lightbox="gallery-item"><img src="demos/construction/images/pag/4.JPG"
                                   alt="Standard Post with Gallery"></a></div>
-                            <div class="slide"><a href="demos/construction/images/pag/5.jpg"
-                                data-lightbox="gallery-item"><img src="demos/construction/images/pag/5.jpg"
+                            <div class="slide"><a href="demos/construction/images/pag/5.JPG"
+                                data-lightbox="gallery-item"><img src="demos/construction/images/pag/5.JPG"
                                   alt="Standard Post with Gallery"></a></div>
-                            <div class="slide"><a href="demos/construction/images/pag/10.jpg"
-                                data-lightbox="gallery-item"><img src="demos/construction/images/pag/10.jpg"
+                            <div class="slide"><a href="demos/construction/images/pag/10.JPG"
+                                data-lightbox="gallery-item"><img src="demos/construction/images/pag/10.JPG"
                                   alt="Standard Post with Gallery"></a></div>
                           </div>
                         </div>
@@ -919,8 +919,8 @@
                 <div class="oc-item">
                   <div class="entry">
                     <div class="entry-image">
-                      <a href="demos/construction/images/pag/11.jpg" data-lightbox="image"><img
-                          src="demos/construction/images/pag/11.jpg" alt="Standard Post with Image"></a>
+                      <a href="demos/construction/images/pag/11.JPG" data-lightbox="image"><img
+                          src="demos/construction/images/pag/11.JPG" alt="Standard Post with Image"></a>
                     </div>
                     <div class="entry-title title-sm nott">
                       <h3><a href="#">Premio a la excelencia global en construccion</a></h3>
