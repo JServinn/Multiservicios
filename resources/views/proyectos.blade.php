@@ -329,7 +329,7 @@
             <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-icons pf-illustrations">
               <div class="grid-inner">
                 <div class="portfolio-image">
-                  <img src="demos/construction/images/pag/20t.jpg" alt="Industrial Hub">
+                  <img src="demos/construction/images/pag/20t.JPG" alt="Industrial Hub">
                   <div class="bg-overlay">
                     <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
                       <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="zoomIn"
@@ -348,7 +348,7 @@
             <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-uielements pf-media">
               <div class="grid-inner">
                 <div class="portfolio-image">
-                  <img src="demos/construction/images/pag/22t.jpg" alt="Corporate Headquarters">
+                  <img src="demos/construction/images/pag/22t.JPG" alt="Corporate Headquarters">
                   <div class="bg-overlay">
                     <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
                       <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="zoomIn"
@@ -367,7 +367,7 @@
             <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-graphics pf-illustrations">
               <div class="grid-inner">
                 <div class="portfolio-image">
-                  <img src="demos/construction/images/pag/21t.jpg" alt="Space Station">
+                  <img src="demos/construction/images/pag/21t.JPG" alt="Space Station">
                   <div class="bg-overlay">
                     <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
                       <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="zoomIn"
@@ -405,7 +405,7 @@
             <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-graphics">
               <div class="grid-inner">
                 <div class="portfolio-image">
-                  <img src="demos/construction/images/pag/6t.jpg" alt="Lakeview Center">
+                  <img src="demos/construction/images/pag/6t.JPG" alt="Lakeview Center">
                   <div class="bg-overlay">
                     <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
                       <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="zoomIn"
