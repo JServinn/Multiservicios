@@ -508,7 +508,7 @@
           <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-media pf-icons">
             <div class="grid-inner">
               <div class="portfolio-image">
-                <img src="demos/construction/images/pag/24t.JPG" alt="The Atmosphere">
+                <img src="demos/construction/images/pag/24.JPG" alt="The Atmosphere">
                 <div class="bg-overlay">
                   <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
                     <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="zoomIn"
@@ -603,7 +603,7 @@
           <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-graphics pf-illustrations">
             <div class="grid-inner">
               <div class="portfolio-image">
-                <img src="demos/construction/images/pag/18.JPG" alt="Space Station">
+                <img src="demos/construction/images/pag/18.jpg" alt="Space Station">
                 <div class="bg-overlay">
                   <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
                     <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="zoomIn"
@@ -622,7 +622,7 @@
           <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-uielements pf-icons">
             <div class="grid-inner">
               <div class="portfolio-image">
-                <img src="demos/construction/images/pag/17.JPG" alt="Bent Architecture">
+                <img src="demos/construction/images/pag/17.jpg" alt="Bent Architecture">
                 <div class="bg-overlay">
                   <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
                     <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="zoomIn"
