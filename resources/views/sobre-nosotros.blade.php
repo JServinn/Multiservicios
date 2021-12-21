@@ -288,7 +288,7 @@
                 <div class="flexslider">
                   <div class="slider-wrap">
                     <div class="slide" data-thumb="demos/construction/images/gallery/thumbs/1.jpg">
-                      <img src="demos/construction/images/pag/1.jpg" alt="Image">
+                      <img src="demos/construction/images/pag/1.JPG" alt="Image">
                       <div class="bg-overlay">
                         <div class="bg-overlay-content justify-content-start align-items-end">
                           <div class="h4 fw-light bg-light text-dark px-3 py-2">Gubernamentales Construcciones</div>
@@ -296,7 +296,7 @@
                       </div>
                     </div>
                     <div class="slide" data-thumb="demos/construction/images/gallery/thumbs/2.jpg">
-                      <img src="demos/construction/images/pag/2.jpg" alt="Image">
+                      <img src="demos/construction/images/pag/2.JPG" alt="Image">
                       <div class="bg-overlay">
                         <div class="bg-overlay-content justify-content-start align-items-end">
                           <div class="h4 fw-light bg-light text-dark px-3 py-2">Renovación de Hogar</div>
@@ -304,7 +304,7 @@
                       </div>
                     </div>
                     <div class="slide" data-thumb="demos/construction/images/gallery/thumbs/3.jpg">
-                      <img src="demos/construction/images/pag/3.jpg" alt="Image">
+                      <img src="demos/construction/images/pag/3.JPG" alt="Image">
                       <div class="bg-overlay">
                         <div class="bg-overlay-content justify-content-start align-items-end">
                           <div class="h4 fw-light bg-light text-dark px-3 py-2">Construcciones Residenciales</div>
@@ -312,7 +312,7 @@
                       </div>
                     </div>
                     <div class="slide" data-thumb="demos/construction/images/gallery/thumbs/4.jpg">
-                      <img src="demos/construction/images/pag/4.jpg" alt="Image">
+                      <img src="demos/construction/images/pag/4.JPG" alt="Image">
                       <div class="bg-overlay">
                         <div class="bg-overlay-content justify-content-start align-items-end">
                           <div class="h4 fw-light bg-light text-dark px-3 py-2">Pisos de Madera</div>
@@ -320,7 +320,7 @@
                       </div>
                     </div>
                     <div class="slide" data-thumb="demos/construction/images/gallery/thumbs/5.jpg">
-                      <img src="demos/construction/images/pag/5.jpg" alt="Image">
+                      <img src="demos/construction/images/pag/5.JPG" alt="Image">
                       <div class="bg-overlay">
                         <div class="bg-overlay-content justify-content-start align-items-end">
                           <div class="h4 fw-light bg-light text-dark px-3 py-2">Reparación de Casas</div>
@@ -328,7 +328,7 @@
                       </div>
                     </div>
                     <div class="slide" data-thumb="demos/construction/images/gallery/thumbs/6.jpg">
-                      <img src="demos/construction/images/pag/15.jpg" alt="Image">
+                      <img src="demos/construction/images/pag/15.JPG" alt="Image">
                       <div class="bg-overlay">
                         <div class="bg-overlay-content justify-content-start align-items-end">
                           <div class="h4 fw-light bg-light text-dark px-3 py-2">Renovaciones</div>
@@ -336,7 +336,7 @@
                       </div>
                     </div>
                     <div class="slide" data-thumb="demos/construction/images/gallery/thumbs/7.jpg">
-                      <img src="demos/construction/images/pag/23.jpg" alt="Image">
+                      <img src="demos/construction/images/pag/23.JPG" alt="Image">
                       <div class="bg-overlay">
                         <div class="bg-overlay-content justify-content-start align-items-end">
                           <div class="h4 fw-light bg-light text-dark px-3 py-2">Construcciones de alta tecnología</div>
@@ -344,7 +344,7 @@
                       </div>
                     </div>
                     <div class="slide" data-thumb="demos/construction/images/gallery/thumbs/8.jpg">
-                      <img src="demos/construction/images/pag/24.jpg" alt="Image">
+                      <img src="demos/construction/images/pag/24.JPG" alt="Image">
                       <div class="bg-overlay">
                         <div class="bg-overlay-content justify-content-start align-items-end">
                           <div class="h4 fw-light bg-light text-dark px-3 py-2">Pisos de Madera Dura</div>
@@ -352,7 +352,7 @@
                       </div>
                     </div>
                     <div class="slide" data-thumb="demos/construction/images/gallery/thumbs/9.jpg">
-                      <img src="demos/construction/images/pag/10.jpg" alt="Image">
+                      <img src="demos/construction/images/pag/10.JPG" alt="Image">
                       <div class="bg-overlay">
                         <div class="bg-overlay-content justify-content-start align-items-end">
                           <div class="h4 fw-light bg-light text-dark px-3 py-2">Construcción de Material</div>
@@ -360,7 +360,7 @@
                       </div>
                     </div>
                     <div class="slide" data-thumb="demos/construction/images/gallery/thumbs/10.jpg">
-                      <img src="demos/construction/images/pag/11.jpg" alt="Image">
+                      <img src="demos/construction/images/pag/11.JPG" alt="Image">
                       <div class="bg-overlay">
                         <div class="bg-overlay-content justify-content-start align-items-end">
                           <div class="h4 fw-light bg-light text-dark px-3 py-2">Reparación de Techo</div>
@@ -368,7 +368,7 @@
                       </div>
                     </div>
                     <div class="slide" data-thumb="demos/construction/images/gallery/thumbs/11.jpg">
-                      <img src="demos/construction/images/pag/12.jpg" alt="Image">
+                      <img src="demos/construction/images/pag/12.JPG" alt="Image">
                       <div class="bg-overlay">
                         <div class="bg-overlay-content justify-content-start align-items-end">
                           <div class="h4 fw-light bg-light text-dark px-3 py-2">Renovación de vivienda</div>
@@ -376,7 +376,7 @@
                       </div>
                     </div>
                     <div class="slide" data-thumb="demos/construction/images/gallery/thumbs/12.jpg">
-                      <img src="demos/construction/images/pag/13.jpg" alt="Image">
+                      <img src="demos/construction/images/pag/13.JPG" alt="Image">
                       <div class="bg-overlay">
                         <div class="bg-overlay-content justify-content-start align-items-end">
                           <div class="h4 fw-light bg-light text-dark px-3 py-2">Renovación de Oficina</div>
